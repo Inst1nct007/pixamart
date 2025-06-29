@@ -5,7 +5,7 @@ Pixamart is a wallpaper application that let's the users choose best Home Screen
 # App Demo Available on Youtube
 
 <video controls width="600">
-<source src="./assets/video.mp4" type="video/mp4">
+<source src="https://github.com/Inst1nct007/pixamart/blob/main/assets/video.mp4" type="video/mp4">
 Your browser does not support the video tag
 </video>
 
