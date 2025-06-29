@@ -1,6 +1,6 @@
 # Pixamart
 
-Pixamart is an online Wallpaper Application
+Pixamart is a wallpaper application that let's the users choose best Home Screen and Lock Screen Wallpapers for their android phones. It includes features like Email and Google Authentication, Using Local Storage to download images, Use Remote Database (Firebase) to synchronise information.
 
 ## To All Contributers
 
