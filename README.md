@@ -3,6 +3,11 @@
 Pixamart is a wallpaper application that let's the users choose best Home Screen and Lock Screen Wallpapers for their android phones. It includes features like Email and Google Authentication, Using Local Storage to download images, Use Remote Database (Firebase) to synchronise information.
 
 # App Demo Available on Youtube
+
+<a href="https://www.youtube.com/watch?v=60SN3MS3RiY" target="_blank">
+  <img src="https://github.com/Inst1nct007/pixamart/blob/main/assets/videogif.gif" alt="App Demo (Youtube)" />
+</a>
+
 [![App Demo (Youtube) ](https://github.com/Inst1nct007/pixamart/blob/main/assets/videogif.gif)](https://www.youtube.com/watch?v=60SN3MS3RiY)
 
 
