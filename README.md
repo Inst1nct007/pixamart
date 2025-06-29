@@ -4,12 +4,19 @@ Pixamart is a wallpaper application that let's the users choose best Home Screen
 
 # App Demo Available on Youtube
 
-<a href="https://www.youtube.com/watch?v=60SN3MS3RiY" target="_blank">
-  <img src="https://github.com/Inst1nct007/pixamart/blob/main/assets/videogif.gif" alt="App Demo (Youtube)" />
-</a>
-
 [![App Demo (Youtube) ](https://github.com/Inst1nct007/pixamart/blob/main/assets/videogif.gif)](https://www.youtube.com/watch?v=60SN3MS3RiY)
 
+## Sign up Page
+
+![Home](https://github.com/Inst1nct007/pixamart/blob/main/assets/sign-up.png)
+
+## Homepage
+
+![Home](https://github.com/Inst1nct007/pixamart/blob/main/assets/home.png)
+
+## Save Wallpaper
+
+![Home](https://github.com/Inst1nct007/pixamart/blob/main/assets/save.png)
 
 ## To All Contributers
 
